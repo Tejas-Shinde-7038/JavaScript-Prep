@@ -43,7 +43,18 @@ let myObj = {                           //Object
 console.log(myObj);
 
 
-const fun =()=>{                        //Function with Arrow Function
-    console.log("Tejas");
+// const fun =()=>{                        //Function with Arrow Function
+//     console.log("Tejas");
     
-}
+// }
+
+
+
+//** */
+//Stack Memory and Heap Memory 
+
+//stack memory hold primitive datatypes
+//Heap Memory hold Non Primitive datatypes
+
+//when we take value from stack memory it gives copy that memory 
+//when we take value from heap memory it gives orignal value (refference)
